@@ -11,8 +11,6 @@ This repository contains two main projects completed :
 - Accompanied by a detailed PDF report.
 #### **This Jupyter notebook(CampusPulsetask.ipnb) is intended to be run locally using **VS Code** (or any Jupyter-supported environment).
 
-Make sure to place the `dataset.csv` file in the **same directory** as the notebook, or update the path in the code accordingly.
-
  The notebook was developed and tested in **VS Code**. Please ensure:
 - Python 3.8+ is installed
 - Jupyter extension is enabled
